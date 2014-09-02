@@ -1,5 +1,4 @@
 XenoLegions
 ===========
 
-Xeno Legions tabletop RPG core rulebook **edit**
-Test
+## Dice, Dice rolls, Die steps
